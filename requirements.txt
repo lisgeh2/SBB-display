@@ -1,0 +1,4 @@
+requests
+pillow
+flask
+luma.oled; platform_system == "Linux"
