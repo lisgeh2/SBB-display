@@ -36,7 +36,7 @@ def write_board_image(lines = None):
     here = Path(__file__).parent
     img.save(here / IMG_NAME)
 
-
+# 
 
 if __name__ == "__main__":
     print(get_station_info())
